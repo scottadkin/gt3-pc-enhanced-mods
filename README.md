@@ -1,5 +1,25 @@
 # gt3-pc-enhanced-mods
 
+## Remove AI Max Throttle Limits
+```
+UPDATE EVENT SET EnemySkillA_RWD=100,
+EnemySkillA_FWD=100,
+EnemySkillA_4WD=100,
+EnemySkillA_GTR=100,
+EnemySkillB_RWD=100,
+EnemySkillB_FWD=100,
+EnemySkillB_4WD=100,
+EnemySkillB_GTR=100,
+EnemySkillC_RWD=100,
+EnemySkillC_FWD=100,
+EnemySkillC_4WD=100,
+EnemySkillC_GTR=100,
+EnemySkillC2_RWD=100,
+EnemySkillC2_FWD=100,
+EnemySkillC2_4WD=100,
+EnemySkillC2_GTR=100
+```
+
 ## Like The Wind
 - Give All AI Cars Dodge Viper Engine, drivetrain, gearing and remove turbos and mufflers.(Changing racing modifier changes the car model)
 ```
