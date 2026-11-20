@@ -20,6 +20,12 @@ EnemySkillC2_4WD=100,
 EnemySkillC2_GTR=100
 ```
 
+## Give AI Extreme Slow Down
+- If you fall behind the AI cars too much they will slow down to 1% speed.
+```
+UPDATE EVENT SET FastEnemyRestrainMax=99
+```
+
 ## Like The Wind
 - Give All AI Cars Dodge Viper Engine, drivetrain, gearing and remove turbos and mufflers.(Changing racing modifier changes the car model)
 ```
