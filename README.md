@@ -23,7 +23,13 @@ EnemySkillC2_GTR=100
 ## Give AI Extreme Slow Down
 - If you fall behind the AI cars too much they will slow down to 1% speed.
 ```
-UPDATE EVENT SET FastEnemyRestrainMax=99
+UPDATE EVENT SET FastEnemyRestrainMax=99;
+```
+
+## Give AI Extreme Catch Up
+- Make the AI cars up to 500% faster if they fall too far behind.
+```
+UPDATE EVENT SET SlowEnemyBoostMax=500;
 ```
 
 ## Like The Wind
