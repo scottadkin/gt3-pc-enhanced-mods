@@ -49,3 +49,27 @@ UPDATE ENEMY_CARS SET Engine='en_viper_gts_00_a',TurbineKit='na',Drivetrain='dt_
 ```
 UPDATE ENEMY_CARS SET Engine='en_escudo_pikespeak_00_a',TurbineKit='tk_altoworks_sport_ltd_97_d',Drivetrain='dt_viper_gts_00_a',Clutch='cl_viper_gts_00_a',LSD='ls_viper_gts_00_a',Gear='ge_viper_gts_00_a',Muffler=NULL,FinalGear=2070 where Label LIKE 'ltw_h_%'
 ```
+
+
+## TVR Speed 12 Extra Upgrades
+- Mufflers
+```
+INSERT INTO MUFFLER ('Label', 'Car', 'Kind', 'TorqueTopRate', 'TorqueBottomRate', 'Price') VALUES ('mu_cerbera_speed12_00_a', 'cerbera_speed12_00', 1, 104, 104, 4800);
+INSERT INTO MUFFLER ('Label', 'Car', 'Kind', 'TorqueTopRate', 'TorqueBottomRate', 'Price') VALUES ('mu_cerbera_speed12_00_b', 'cerbera_speed12_00', 2, 107, 107, 5555);
+INSERT INTO MUFFLER ('Label', 'Car', 'Kind', 'TorqueTopRate', 'TorqueBottomRate', 'Price') VALUES ('mu_cerbera_speed12_00_c', 'cerbera_speed12_00', 3, 122, 122, 6666);
+```
+- Racing Chip
+```
+INSERT INTO COMPUTER ('Label', 'Car', 'Kind', 'TorqueTopRate', 'TorqueBottomRate', 'Price') VALUES ('nt_cerbera_speed12_00_a', 'cerbera_speed12_00', 1, 104, 104, 1234);
+```
+- Engine Balancing 
+```
+INSERT INTO 'main'.'ENGINEBALANCE' ('Label', 'Car', 'Kind', 'CurveRpmAdd', 'RevLimitAdd', 'TorqueTopRate', 'TorqueBottomRate', 'Price') VALUES ('eb_cerbera_speed12_00_a', 'cerbera_speed12_00', 1, 1, 1, 102, 102, 12333);
+```
+
+- NA Tune
+```
+INSERT INTO NATUNE ('Label', 'Car', 'Kind', 'CurveRpmAdd', 'RevLimitAdd', 'TorqueTopRate', 'TorqueBottomRate', 'Price') VALUES ('nt_cerbera_speed12_00_b', 'cerbera_speed12_00', 2, 3, 2, 251, 248, 24000);
+INSERT INTO NATUNE ('Label', 'Car', 'Kind', 'CurveRpmAdd', 'RevLimitAdd', 'TorqueTopRate', 'TorqueBottomRate', 'Price') VALUES ('nt_cerbera_speed12_00_c', 'cerbera_speed12_00', 3, 5, 3, 457, 456, 676767);
+
+```
