@@ -1,5 +1,12 @@
 # gt3-pc-enhanced-mods
 
+# Make backups of the original files before using.
+
+## All Cars 1 Credit
+```
+UPDATE CAR set price=1
+```
+
 ## Remove AI Max Throttle Limits
 ```
 UPDATE EVENT SET EnemySkillA_RWD=100,
@@ -26,7 +33,7 @@ EnemySkillC2_GTR=100
 UPDATE EVENT SET FastEnemyRestrainMax=99;
 ```
 
-## Give AI Extreme Catch Up
+## Give AI Extreme Catch Up(buggy with racing cars)
 - Make the AI cars up to 500% faster if they fall too far behind.
 ```
 UPDATE EVENT SET SlowEnemyBoostMax=500;
