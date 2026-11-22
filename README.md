@@ -39,6 +39,13 @@ UPDATE EVENT SET FastEnemyRestrainMax=99;
 UPDATE EVENT SET SlowEnemyBoostMax=500;
 ```
 
+## Remove Rubberband
+```
+UPDATE EVENT SET FastEnemyRestrainMax=0;
+UPDATE EVENT SET SlowEnemyBoostMax=0;
+```
+
+
 ## Like The Wind
 - Give All AI Cars Dodge Viper Engine, drivetrain, gearing and remove turbos and mufflers.(Changing racing modifier changes the car model)
 ```
