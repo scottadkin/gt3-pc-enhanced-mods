@@ -58,6 +58,20 @@ UPDATE ENEMY_CARS SET Engine='en_escudo_pikespeak_00_a',TurbineKit='tk_altoworks
 ```
 
 
+## Like The Wind AI Gearing Fixes
+- Uses same as my pcsx2 patch found here https://github.com/scottadkin/Gran-Turismo-3-NTSC-Patches/blob/main/LikeTheWind/AI%20Gear%20Fixes%202/8AA991B0.pnach
+```
+UPDATE ENEMY_CARS SET FinalGear=2100 WHERE Label='ltw_h_zonda_c12s_00';
+UPDATE ENEMY_CARS SET FinalGear=2700 WHERE Label='ltw_h_esprit_sport350_00';
+UPDATE ENEMY_CARS SET FinalGear=2400 WHERE Label='ltw_h_supra_rz_97';
+UPDATE ENEMY_CARS SET FinalGear=3250 WHERE Label='ltw_h_arta_nsx_00';
+UPDATE ENEMY_CARS SET FinalGear=3200 WHERE Label='ltw_h__787b_91';
+UPDATE ENEMY_CARS SET FinalGear=3550 WHERE Label='ltw_h_gt_one_race_99';
+UPDATE ENEMY_CARS SET FinalGear=2800 WHERE Label='ltw_h_cerbera_speed12_00';
+UPDATE ENEMY_CARS SET FinalGear=2750 WHERE Label='ltw_h_castrol_supra_00';
+UPDATE ENEMY_CARS SET FinalGear=3000 WHERE Label='ltw_h_r34_gtr_v_99';
+```
+
 ## TVR Speed 12 Extra Upgrades
 - Mufflers
 ```
@@ -80,3 +94,4 @@ INSERT INTO NATUNE ('Label', 'Car', 'Kind', 'CurveRpmAdd', 'RevLimitAdd', 'Torqu
 INSERT INTO NATUNE ('Label', 'Car', 'Kind', 'CurveRpmAdd', 'RevLimitAdd', 'TorqueTopRate', 'TorqueBottomRate', 'Price') VALUES ('nt_cerbera_speed12_00_c', 'cerbera_speed12_00', 3, 5, 3, 457, 456, 676767);
 
 ```
+
