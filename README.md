@@ -85,6 +85,16 @@ UPDATE EVENT SET FastEnemyRestrainMax=0,SlowEnemyBoostMax=0 WHERE Label LIKE("AE
 UPDATE EVENT SET EnemySkillA_RWD=100,EnemySkillA_FWD=100,EnemySkillA_4WD=100,EnemySkillA_GTR=100 WHERE Label LIKE("AE%") OR Label LIKE("AH%") OR Label LIKE("AN%") OR Label LIKE("AP%")
 ```
 
+## Make AI Terrified of Corners
+```
+UPDATE EVENT SET EnemySkillC_RWD=1,EnemySkillC_FWD=1,EnemySkillC_4WD=1,EnemySkillC_GTR=1
+```
+
+## Make AI Terrified of Corners Arcade Events Only
+```
+UPDATE EVENT SET EnemySkillC_RWD=1,EnemySkillC_FWD=1,EnemySkillC_4WD=1,EnemySkillC_GTR=1 WHERE Label LIKE("AE%") OR Label LIKE("AH%") OR Label LIKE("AN%") OR Label LIKE("AP%")
+```
+
 
 ## Like The Wind
 - Give All AI Cars Dodge Viper Engine, drivetrain, gearing and remove turbos and mufflers.(Changing racing modifier changes the car model)
