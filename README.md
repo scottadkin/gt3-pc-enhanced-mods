@@ -95,6 +95,11 @@ UPDATE EVENT SET EnemySkillC_RWD=1,EnemySkillC_FWD=1,EnemySkillC_4WD=1,EnemySkil
 UPDATE EVENT SET EnemySkillC_RWD=1,EnemySkillC_FWD=1,EnemySkillC_4WD=1,EnemySkillC_GTR=1 WHERE Label LIKE("AE%") OR Label LIKE("AH%") OR Label LIKE("AN%") OR Label LIKE("AP%")
 ```
 
+## Make Brakes Useless
+```
+UPDATE BRAKE SET BrakeTorqueF=0,BrakeTorqueR=0
+```
+
 
 ## Like The Wind
 - Give All AI Cars Dodge Viper Engine, drivetrain, gearing and remove turbos and mufflers.(Changing racing modifier changes the car model)
