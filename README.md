@@ -7,6 +7,36 @@
 UPDATE CAR set price=1
 ```
 
+## All NA-Tunes 1 Credit
+```
+UPDATE NATune SET price=1
+```
+
+## All Turbos 1 Credit
+```
+UPDATE TurbineKit SET price=1
+```
+
+## All Mufflers Upgrades 1 Credit
+```
+UPDATE MUFFLER SET price=1
+```
+
+## All Port Polish Upgrades 1 Credit
+```
+UPDATE PortPolish SET price=1
+```
+
+## All Engine Balancing Upgrades 1 Credit
+```
+UPDATE EngineBalance SET price=1
+```
+
+## All Displacement Upgrades 1 Credit
+```
+UPDATE Displacement SET price=1
+```
+
 ## Remove AI Max Throttle Limits
 ```
 UPDATE EVENT SET EnemySkillA_RWD=100,
