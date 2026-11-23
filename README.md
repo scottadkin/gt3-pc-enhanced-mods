@@ -72,6 +72,13 @@ UPDATE ENEMY_CARS SET FinalGear=2750 WHERE Label='ltw_h_castrol_supra_00';
 UPDATE ENEMY_CARS SET FinalGear=3000 WHERE Label='ltw_h_r34_gtr_v_99';
 ```
 
+## Like The Wind Adding Different AI Cars
+- R390 From the GT All Star Event
+```
+INSERT INTO ENEMY_CARS ('Label', 'Car', 'Brake', 'BrakeController', 'Steer', 'Chassis', 'Lightweight', 'RacingModify', 'Engine', 'PortPolish', 'EngineBalance', 'Displacement', 'Computer', 'NATune', 'TurbineKit', 'Drivetrain', 'Flywheel', 'Clutch', 'PropellerShaft', 'LSD', 'Gear', 'Suspension', 'Intercooler', 'Muffler', 'FrontTire', 'RearTire', 'ASCC', 'TCSC', 'Wheel', 'LSDInitialF', 'LSDAccelF', 'LSDDecelF', 'LSDInitialR', 'LSDAccelR', 'LSDDecelR', 'MaxSpeed', 'Bound1F', 'Bound2F', 'Rebound1F', 'Rebound2F', 'Bound1R', 'Bound2R', 'Rebound1R', 'Rebound2R', 'DownforceF', 'DownforceR', 'CamberF', 'CamberR', 'ToeF', 'ToeR', 'StabilizerF', 'StabilizerR', 'RideHeightF', 'RideHeightR', 'SpringRateF', 'SpringRateR', 'TCSCLevel', 'ASCCLevel', 'TorqueGain', 'FinalGear') VALUES ('ltw_h_r390_race_98', 'r390_race_98', 'br_r390_race_98_a', 'a', 'n1', 'ch_r390_race_98_a', NULL, 'rm_r390_race_98_a', 'en_r390_race_98_a', NULL, NULL, NULL, NULL, NULL, 'tk_r390_race_98_a', 'dt_r390_race_98_a', NULL, 'cl_r390_race_98_a', NULL, 'ls_r390_race_98_a', 'ge_r390_race_98_a', 'su_r390_race_98_a', NULL, 'mu_r390_race_98_a', 'ft_r390_race_98_a', 'rt_r390_race_98_a', 'a', 'a', NULL, 0, 0, 0, 10, 40, 20, 40, 7, 7, 7, 7, 7, 7, 7, 7, 74, 91, 20, 10, 128, 128, 4, 4, 85, 85, 158, 138, 6, 11, 1810, 3429);
+INSERT INTO EVENT ('Opponent12') VALUES ('ltw_h_r390_race_98');
+```
+
 ## TVR Speed 12 Extra Upgrades
 - Mufflers
 ```
