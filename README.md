@@ -80,6 +80,11 @@ UPDATE EVENT SET SlowEnemyBoostMax=0;
 UPDATE EVENT SET FastEnemyRestrainMax=0,SlowEnemyBoostMax=0 WHERE Label LIKE("AE%") OR Label LIKE("AH%") OR Label LIKE("AN%") OR Label LIKE("AP%")
 ```
 
+## Remove AI Max Throttle Limits
+```
+UPDATE EVENT SET EnemySkillA_RWD=100,EnemySkillA_FWD=100,EnemySkillA_4WD=100,EnemySkillA_GTR=100 WHERE Label LIKE("AE%") OR Label LIKE("AH%") OR Label LIKE("AN%") OR Label LIKE("AP%")
+```
+
 
 ## Like The Wind
 - Give All AI Cars Dodge Viper Engine, drivetrain, gearing and remove turbos and mufflers.(Changing racing modifier changes the car model)
