@@ -5,66 +5,56 @@
 
 ## Add missing NA Tunes
 Upgrades Added:
-_206_s16_00 - Stage 3
-_3400s_00 - Stage 2
-_3400s_00 - Stage 3
-_3400s_00_ext - Stage 2
-_3400s_00_ext - Stage 3
-accord_euror_00 - Stage 3
-acura_integra_typer_00 - Stage 3
-altezza_as200_98 - Stage 3
-arta_nsx_00 - Stage 3
-camaro_race_00 - Stage 3
-castrol_nsx_00 - Stage 3
-cerbera_speed12_00 - Stage 2
-cerbera_speed12_00 - Stage 3
-civic_r_98 - Stage 3
-civic_sir2_93 - Stage 3
-cl600_00 - Stage 3
-clio_sport_v6_00 - Stage 2
-clio_sport_v6_00 - Stage 3
-clk55_00 - Stage 3
-cobra_67 - Stage 3
-corvette_cr5_00 - Stage 3
-delsol_sir_95 - Stage 3
-demio_glx_00 - Stage 2
-demio_glx_00 - Stage 3
-diablo_gt_00 - Stage 3
-dodge_viper_gtsr_oreca_00 - Stage 3
-elise_190_00 - Stage 2
-elise_190_00 - Stage 3
-elise_190_00_ext - Stage 2
-elise_190_00_ext - Stage 3
-falcon_xr8_race_00 - Stage 1
-gt40_race_69 - Stage 3
-integra_r_98 - Stage 3
-lupo_cup_00 - Stage 3
-mini_cooper_13i_00 - Stage 2
-mini_cooper_13i_00 - Stage 3
-motersport_elise_00 - Stage 2
-motersport_elise_00 - Stage 3
-mrs_sedition_99 - Stage 3
-mugen_s2000_00 - Stage 3
-panoz_esperante_race_98 - Stage 3
-r_gt_00 - Stage 3
-raybrig_nsx_00 - Stage 3
-rsx_detroitver_01 - Stage 3
-rx8_01 - Stage 3
-rx8_01_ext - Stage 3
-silvia_varietta_00 - Stage 3
-spoon_civic_00 - Stage 3
-spoon_s2000_00 - Stage 3
-spoon_s2000_race_00 - Stage 2
-spoon_s2000_race_00 - Stage 3
-storm_v12_race_00 - Stage 3
-trueno_gt_apex_85 - Stage 3
-trueno_gt_apex_shigeno_00 - Stage 1
-trueno_gt_apex_shigeno_00 - Stage 2
-vertigo_97 - Stage 3
-viper_gtsr_oreca_00 - Stage 3
-vitz_euro_00 - Stage 3
-vitz_rs15_00 - Stage 3
-vitz_rs15_00_ext - Stage 3
-zonda_race_00 - Stage 3
-zzs_00 - Stage 2
-zzs_00 - Stage 3
+```
+206 S16 Stages: 3
+RUF 3400S Stages: 2,3
+RUF 3400S Stages: 2,3
+ACCORD Euro-R Stages: 3
+Acura INTEGRA Type R Stages: 3
+ALTEZZA AS200 Stages: 3
+ARTA NSX Stages: 3
+Camaro Race Car Stages: 3
+Castrol MUGEN NSX Stages: 3
+Speed 12 Stages: 2,3
+CIVIC Type R(EK) Stages: 3
+CIVIC SiR-II(EG) Stages: 3
+CL600 Stages: 3
+Clio Sport V6 24V Stages: 2,3
+CLK55 Stages: 3
+Cobra Stages: 3
+Corvette C5R Stages: 3
+CR-X Del-Sol SiR Stages: 3
+DEMIO GL-X Stages: 2,3
+DIABLO Stages: 3
+Viper GTS-R Team Oreca Stages: 3
+Elise 190 Stages: 2,3
+Elise 190 Stages: 2,3
+Falcon XR8 Race Car Stages: 1
+GT40 Race Car Stages: 3
+INTEGRA Type R 98 spec Stages: 3
+Lupo Cup car Stages: 3
+Mini Cooper 1.3i Stages: 2,3
+Motor Sport Elise Stages: 2,3
+MR-S S EDITION Stages: 3
+MUGEN S2000 Stages: 3
+Esperante GTR-1 Stages: 3
+RUF RGT Stages: 3
+RAYBRIG NSX Stages: 3
+Acura RSX Type-S Stages: 3
+RX-8 Stages: 3
+RX-8 Stages: 3
+SILVIA Varietta Stages: 3
+Spoon Civic Type-R Stages: 3
+Spoon S2000 Stages: 3
+Spoon S2000 Race Car Stages: 2,3
+Storm V12 Race Car Stages: 3
+SPRINTER TRUENO GT-APEX Stages: 3
+SPRINTER TRUENO GT-APEX Stages: 1,2
+Vertigo Race Car Stages: 3
+Viper GTS-R Team Oreca Stages: 3
+VITZ Euro Edition Stages: 3
+VITZ RS 1.5 Stages: 3
+VITZ RS 1.5 Stages: 3
+Zonda Race Car Stages: 3
+ZZS Stages: 2,3
+```
