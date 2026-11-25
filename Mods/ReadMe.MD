@@ -303,3 +303,205 @@ ZZS Stages: 3,4
 Lupo Cup car Stages: 3,4
 New Beetle RSi Stages: 4
 ```
+
+## Add Displacement Upgrades To All Cars
+```
+911(996) GT3
+DIABLO
+F090/S
+F094/H
+F094/S
+F686/M
+F687/S
+F688/S
+Sample 001
+Sample 002
+Sample 003
+Sample 004
+Sample 005
+Sample 006
+Sample 007
+Sample 008
+Sample 009
+Sample 010
+Acura CL 3.2 Type S
+Acura INTEGRA Type R
+Acura NSX
+Acura NSX
+Acura RSX Type-S
+156 2.5 V6 24V
+DB7 Vantage Coupe
+V8 Vantage
+Vanquish
+S4
+TT 1.8T quattro
+TT 1.8T quattro
+328ci
+Camaro Race Car
+Camaro SS
+Camaro Z28
+Corvette C5R
+Corvette GRAND SPORT
+Corvette Z06
+PT Cruiser
+Viper GTS-R Team Oreca
+Xsara Rally Car
+MIRA TR-XX AVANZATO R
+STORIA X4
+Viper GTS
+Viper GTS-R Team Oreca
+Viper GTSR Concept
+Coupe Turbo Plus
+Escort Rally Car
+Focus Rally Car
+GT40
+GT40 Race Car
+Mustang SVT Cobra R
+Vertigo Race Car
+ACCORD Euro-R
+ARTA NSX
+CR-X Del-Sol SiR
+Castrol MUGEN NSX
+HONDA S2000
+HONDA S2000
+HONDA S2000
+HONDA S2000
+INTEGRA Type R 98 spec
+NSX Type R
+NSX Type R
+NSX Type S Zero
+NSX Type S Zero
+RAYBRIG NSX
+S2000
+S2000
+S2000 LM Race Car
+S2000 Type V
+XJ220 Race Car
+XJ220 Road Car
+XKR Coupe
+Delta HF Integrale Rally Car
+Stratos
+Stratos Rally Car
+Storm V12 Race Car
+Elise 190
+Elise 190
+Esprit SPORT 350
+Esprit V8 SE
+Motor Sport Elise
+787B
+DEMIO GL-X
+EUNOS ROADSTER
+ROADSTER 1.8 RS
+ROADSTER RS
+RX-7 LM Race Car
+RX-7 Type RS
+RX-7 Type RZ
+RX-8
+SAVANNA RX-7 INFINI III(FC)
+FTO GP Version R
+FTO LM Race Car
+GTO Twin Turbo
+LANCER
+LANCER Evolution IV GSR
+LANCER Evolution V GSR
+LANCER Evolution VI GSR
+LANCER Evolution VI GSR T.M.E.
+LANCER Evolution VI GSR T.M.E.(J)
+LANCER Evolution VI RS
+LANCER Evolution VI Rally Car
+LANCER Evolution VII GSR
+LANCER Evolution VII RS
+LANCER Evolution VII Rally Car
+MUGEN S2000
+CL600
+CLK Touring Car
+CLK55
+SLK 230 Kompressor
+Mine's Lancer Evolution VI
+Mine's Skyline
+NISMO 400R
+NISMO GT-R LM Road Car
+180SX Type X
+C-WEST RAZO SILVIA
+CALSONIC SKYLINE
+Fairlady Z Version R
+Fairlady Z Version S
+LOCTITE ZEXEL GT-R
+Nissan Z Concept
+PENNZOIL NISMO GT-R
+R390 GT1 LM Race Car
+R390 GT1 Road Car
+SILVIA K's (S13 1800cc)
+SILVIA K's (S13 2000cc)
+SILVIA K's AERO(S14)
+SILVIA SPEC R AERO
+SILVIA Varietta
+Astra Touring Car
+Caribra Touring Car
+Speedster
+Zonda C12
+Zonda C12S
+Zonda Race Car
+Esperante GTR-1
+206 Rally Car
+206 S16
+RUF 3400S
+RUF CTR2
+RUF RGT
+Clio Sport Race Car
+Clio Sport V6 24V
+IMPREZA 22B-STi Version
+IMPREZA LM Race Car
+IMPREZA Rally Car
+IMPREZA Rally Car prototype
+IMPREZA SEDAN WRX STi
+IMPREZA SPORTS WAGON STi
+IMPREZA WAGON WRX STi
+IMPREZA WRX STi
+LEGACY B4 BLITZEN
+LEGACY B4 RSK
+LEGACY TOURING WAGON GT-B
+ALTO WORKS
+ALTO WORKS
+ESCUDO Pikes Peak Version
+Cobra
+Spoon Civic Type-R
+Spoon S2000
+Spoon S2000 Race Car
+ALTEZZA AS200
+ALTEZZA LM Race Car
+ALTEZZA RS200
+CELICA GT-FOUR(ST205)
+CELICA Rally Car
+CELICA SS-II
+CELICA SS-II(ST202)
+COROLLA Rally Car
+Castrol Tom's SUPRA
+DENSO SARD SUPRA GT
+GT-ONE Race Car(TS020)
+GT-ONE Road Car(TS020)
+MR-S S EDITION
+MR2 G-Limited
+MR2 GT-S
+SPRINTER TRUENO GT-APEX
+SUPRA RZ
+SUPRA SZ-R
+SuperAutoBacs APEX MR-S
+VITZ Euro Edition
+VITZ RS 1.5
+CELICA TRD Sports M
+Griffith 500
+Speed 12
+Tuscan Speed 6
+Falcon XR8 Race Car
+Tom's X540 CHASER
+ZZII
+ZZS
+Astra Touring Car
+Caribra Touring Car
+VX220
+Lupo Cup car
+New Beetle 2.0
+New Beetle Cup car
+New Beetle RSi
+```
