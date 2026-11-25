@@ -943,3 +943,97 @@ ZZII
 Astra Touring Car
 Caribra Touring Car
 ```
+
+
+## Add Exhaust Upgrades
+If a car already came with an upgraded exhaust it will now also get 4% more power than stock.
+Racing cars exhausts have been changed to show as the sports upgrade, allowing you to upgrade to semi-racing and racing for even more power(cars already in garage won't have the extra power).
+```
+911(996) GT3: Sports,Semi-Racing,Racing
+DIABLO: Semi-Racing,Racing
+F090/S: Sports,Semi-Racing,Racing
+F094/H: Sports,Semi-Racing,Racing
+F094/S: Sports,Semi-Racing,Racing
+F686/M: Sports,Semi-Racing,Racing
+F687/S: Sports,Semi-Racing,Racing
+F688/S: Sports,Semi-Racing,Racing
+Sample 001: Sports,Semi-Racing,Racing
+Sample 002: Sports,Semi-Racing,Racing
+Sample 003: Sports,Semi-Racing,Racing
+Sample 004: Sports,Semi-Racing,Racing
+Sample 005: Sports,Semi-Racing,Racing
+Sample 006: Sports,Semi-Racing,Racing
+Sample 007: Sports,Semi-Racing,Racing
+Sample 008: Sports,Semi-Racing,Racing
+Sample 009: Sports,Semi-Racing,Racing
+Sample 010: Sports,Semi-Racing,Racing
+Camaro Race Car: Semi-Racing,Racing
+Corvette C5R: Semi-Racing,Racing
+Viper GTS-R Team Oreca: Semi-Racing,Racing
+Xsara Rally Car: Semi-Racing,Racing
+Viper GTS-R Team Oreca: Semi-Racing,Racing
+Viper GTSR Concept: Sports,Semi-Racing,Racing
+Escort Rally Car: Semi-Racing,Racing
+Focus Rally Car: Semi-Racing,Racing
+GT40: Semi-Racing,Racing
+GT40 Race Car: Semi-Racing,Racing
+Vertigo Race Car: Semi-Racing,Racing
+ARTA NSX: Semi-Racing,Racing
+Castrol MUGEN NSX: Semi-Racing,Racing
+RAYBRIG NSX: Semi-Racing,Racing
+S2000 LM Race Car: Semi-Racing,Racing
+XJ220 Race Car: Semi-Racing,Racing
+XJ220 Road Car: Sports,Semi-Racing,Racing
+Delta HF Integrale Rally Car: Semi-Racing,Racing
+Stratos Rally Car: Sports,Semi-Racing,Racing
+Storm V12 Race Car: Semi-Racing,Racing
+787B: Semi-Racing,Racing
+RX-7 LM Race Car: Semi-Racing,Racing
+FTO LM Race Car: Semi-Racing,Racing
+LANCER: Sports,Semi-Racing,Racing
+LANCER Evolution VI Rally Car: Semi-Racing,Racing
+LANCER Evolution VII Rally Car: Semi-Racing,Racing
+CLK Touring Car: Semi-Racing,Racing
+Mine's Lancer Evolution VI: Semi-Racing,Racing
+Mine's Skyline: Semi-Racing,Racing
+NISMO 400R: Sports
+NISMO GT-R LM Road Car: Sports
+C-WEST RAZO SILVIA: Semi-Racing,Racing
+CALSONIC SKYLINE: Semi-Racing,Racing
+LOCTITE ZEXEL GT-R: Semi-Racing,Racing
+PENNZOIL NISMO GT-R: Semi-Racing,Racing
+R390 GT1 LM Race Car: Semi-Racing,Racing
+R390 GT1 Road Car: Sports,Semi-Racing,Racing
+Astra Touring Car: Semi-Racing,Racing
+Caribra Touring Car: Semi-Racing,Racing
+Zonda C12: Sports
+Zonda C12S: Sports
+Zonda Race Car: Semi-Racing,Racing
+Esperante GTR-1: Semi-Racing,Racing
+206 Rally Car: Semi-Racing,Racing
+RUF 3400S: Sports
+RUF 3400S: Sports
+RUF CTR2: Sports,Semi-Racing
+RUF RGT: Sports
+Clio Sport Race Car: Semi-Racing,Racing
+IMPREZA LM Race Car: Semi-Racing,Racing
+IMPREZA Rally Car: Semi-Racing,Racing
+IMPREZA Rally Car prototype: Semi-Racing,Racing
+ESCUDO Pikes Peak Version: Semi-Racing,Racing
+Spoon Civic Type-R: Semi-Racing
+Spoon S2000 Race Car: Semi-Racing,Racing
+ALTEZZA LM Race Car: Semi-Racing,Racing
+CELICA Rally Car: Semi-Racing,Racing
+COROLLA Rally Car: Semi-Racing,Racing
+Castrol Tom's SUPRA: Semi-Racing,Racing
+DENSO SARD SUPRA GT: Semi-Racing,Racing
+GT-ONE Race Car(TS020): Semi-Racing,Racing
+GT-ONE Road Car(TS020): Sports,Semi-Racing,Racing
+SPRINTER TRUENO GT-APEX: Semi-Racing
+SuperAutoBacs APEX MR-S: Semi-Racing,Racing
+Speed 12: Sports,Semi-Racing,Racing
+Falcon XR8 Race Car: Semi-Racing,Racing
+ZZII: Semi-Racing,Racing
+Astra Touring Car: Semi-Racing,Racing
+Caribra Touring Car: Semi-Racing,Racing
+```
