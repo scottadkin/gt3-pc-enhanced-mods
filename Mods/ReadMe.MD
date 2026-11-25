@@ -678,3 +678,187 @@ Caribra Touring Car
 Lupo Cup car
 New Beetle Cup car
 ```
+
+## Add Intercooler Upgrades
+- Even cars without turbos/superchargers.
+```
+911(996) GT3 Sports,Racing
+DIABLO Sports,Racing
+F090/S Sports,Racing
+F094/H Sports,Racing
+F094/S Sports,Racing
+F686/M Sports,Racing
+F687/S Sports,Racing
+F688/S Sports,Racing
+Sample 001 Sports,Racing
+Sample 002 Sports,Racing
+Sample 003 Sports,Racing
+Sample 004 Sports,Racing
+Sample 005 Sports,Racing
+Sample 006 Sports,Racing
+Sample 007 Sports,Racing
+Sample 008 Sports,Racing
+Sample 009 Sports,Racing
+Sample 010 Sports,Racing
+Acura CL 3.2 Type S Sports,Racing
+Acura INTEGRA Type R Sports,Racing
+Acura NSX Sports,Racing
+Acura NSX Sports,Racing
+Acura RSX Type-S Sports,Racing
+156 2.5 V6 24V Sports,Racing
+DB7 Vantage Coupe Sports,Racing
+V8 Vantage Sports,Racing
+Vanquish Sports,Racing
+328ci Sports,Racing
+Camaro Race Car Sports,Racing
+Camaro SS Sports,Racing
+Camaro Z28 Sports,Racing
+Corvette C5R Sports,Racing
+Corvette GRAND SPORT Sports,Racing
+Corvette Z06 Sports,Racing
+PT Cruiser Sports,Racing
+Viper GTS-R Team Oreca Sports,Racing
+Xsara Rally Car Sports,Racing
+Viper GTS Sports,Racing
+Viper GTS-R Team Oreca Sports,Racing
+Viper GTSR Concept Sports,Racing
+Escort Rally Car Sports,Racing
+Focus Rally Car Sports,Racing
+GT40 Sports,Racing
+GT40 Race Car Sports,Racing
+Mustang SVT Cobra R Sports,Racing
+Vertigo Race Car Sports,Racing
+ACCORD Euro-R Sports,Racing
+ARTA NSX Sports,Racing
+CIVIC SiR-II(EG) Sports,Racing
+CIVIC Type R(EK) Sports,Racing
+CR-X Del-Sol SiR Sports,Racing
+Castrol MUGEN NSX Sports,Racing
+HONDA S2000 Sports,Racing
+HONDA S2000 Sports,Racing
+HONDA S2000 Sports,Racing
+HONDA S2000 Sports,Racing
+INTEGRA Type R 98 spec Sports,Racing
+NSX Type R Sports,Racing
+NSX Type R Sports,Racing
+NSX Type S Zero Sports,Racing
+NSX Type S Zero Sports,Racing
+RAYBRIG NSX Sports,Racing
+S2000 Sports,Racing
+S2000 Sports,Racing
+S2000 LM Race Car Sports,Racing
+S2000 Type V Sports,Racing
+XJ220 Race Car Sports,Racing
+XJ220 Road Car Sports,Racing
+XKR Coupe Sports,Racing
+Delta HF Integrale Rally Car Sports,Racing
+Stratos Sports,Racing
+Stratos Rally Car Sports,Racing
+Storm V12 Race Car Sports,Racing
+Elise 190 Sports,Racing
+Elise 190 Sports,Racing
+Motor Sport Elise Sports,Racing
+787B Sports,Racing
+DEMIO GL-X Sports,Racing
+EUNOS ROADSTER Sports,Racing
+EUNOS ROADSTER Sports,Racing
+EUNOS ROADSTER Sports,Racing
+EUNOS ROADSTER Sports,Racing
+EUNOS ROADSTER Sports,Racing
+EUNOS ROADSTER Sports,Racing
+EUNOS ROADSTER Sports,Racing
+EUNOS ROADSTER Sports,Racing
+EUNOS ROADSTER Sports,Racing
+EUNOS ROADSTER Sports,Racing
+EUNOS ROADSTER Sports,Racing
+ROADSTER 1.8 RS Sports,Racing
+ROADSTER 1.8 RS Sports,Racing
+ROADSTER RS Sports,Racing
+ROADSTER RS Sports,Racing
+ROADSTER RS Sports,Racing
+RX-7 LM Race Car Sports,Racing
+RX-8 Sports,Racing
+RX-8 Sports,Racing
+FTO GP Version R Sports,Racing
+FTO GP Version R Sports,Racing
+FTO LM Race Car Sports,Racing
+LANCER Sports,Racing
+LANCER Evolution VI Rally Car Sports,Racing
+LANCER Evolution VII Rally Car Sports,Racing
+MUGEN S2000 Sports,Racing
+CL600 Sports,Racing
+CLK Touring Car Sports,Racing
+CLK55 Sports,Racing
+SLK 230 Kompressor Sports,Racing
+Mine's Lancer Evolution VI Sports,Racing
+Mine's Skyline Sports,Racing
+Mini Cooper 1.3i Sports,Racing
+NISMO 400R Sports
+NISMO GT-R LM Road Car Sports
+C-WEST RAZO SILVIA Sports,Racing
+CALSONIC SKYLINE Sports,Racing
+LOCTITE ZEXEL GT-R Sports,Racing
+Nissan Z Concept Sports,Racing
+PENNZOIL NISMO GT-R Sports,Racing
+R390 GT1 LM Race Car Sports,Racing
+R390 GT1 Road Car Sports,Racing
+SILVIA Varietta Sports,Racing
+Astra Touring Car Sports,Racing
+Caribra Touring Car Sports,Racing
+Speedster Sports,Racing
+Zonda C12 Sports,Racing
+Zonda C12S Sports,Racing
+Zonda Race Car Sports,Racing
+Esperante GTR-1 Sports,Racing
+206 Rally Car Sports,Racing
+206 S16 Sports,Racing
+RUF 3400S Sports,Racing
+RUF 3400S Sports,Racing
+RUF CTR2 Sports
+RUF RGT Sports,Racing
+Clio Sport Race Car Sports,Racing
+Clio Sport V6 24V Sports,Racing
+IMPREZA LM Race Car Sports,Racing
+IMPREZA Rally Car Sports,Racing
+IMPREZA Rally Car prototype Sports,Racing
+ESCUDO Pikes Peak Version Sports,Racing
+Cobra Sports,Racing
+Spoon Civic Type-R Sports,Racing
+Spoon S2000 Sports,Racing
+Spoon S2000 Race Car Sports,Racing
+ALTEZZA AS200 Sports,Racing
+ALTEZZA LM Race Car Sports,Racing
+ALTEZZA RS200 Sports,Racing
+CELICA Rally Car Sports,Racing
+CELICA SS-II Sports,Racing
+CELICA SS-II Sports,Racing
+CELICA SS-II(ST202) Sports,Racing
+COROLLA Rally Car Sports,Racing
+Castrol Tom's SUPRA Sports,Racing
+DENSO SARD SUPRA GT Sports,Racing
+GT-ONE Race Car(TS020) Sports,Racing
+GT-ONE Road Car(TS020) Sports,Racing
+MR-S S EDITION Sports,Racing
+MR2 G-Limited Sports,Racing
+SPRINTER TRUENO GT-APEX Sports,Racing
+SPRINTER TRUENO GT-APEX Sports,Racing
+SUPRA SZ-R Sports,Racing
+SuperAutoBacs APEX MR-S Sports,Racing
+VITZ Euro Edition Sports,Racing
+VITZ RS 1.5 Sports,Racing
+VITZ RS 1.5 Sports,Racing
+CELICA TRD Sports M Sports,Racing
+Griffith 500 Sports,Racing
+Griffith 500 Sports,Racing
+Speed 12 Sports,Racing
+Tuscan Speed 6 Sports,Racing
+Falcon XR8 Race Car Sports,Racing
+ZZII Sports,Racing
+ZZS Sports,Racing
+Astra Touring Car Sports,Racing
+Caribra Touring Car Sports,Racing
+VX220 Sports,Racing
+Lupo Cup car Sports,Racing
+New Beetle 2.0 Sports,Racing
+New Beetle Cup car Sports,Racing
+```
