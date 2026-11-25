@@ -1,3 +1,6 @@
+## Save Game Warning
+- If you save the game with one of these mods with an upgrade that doesn't exist in the stock game, the garage will crash if the mod is not enabled.
+
 ## Installing Mods
 - Create a folder in the same directory where gt3pc.exe and gt3launcher.exe. 
 - Extract the contents of a .zip into the folder you just created.
@@ -581,6 +584,91 @@ DENSO SARD SUPRA GT
 GT-ONE Race Car(TS020)
 GT-ONE Road Car(TS020)
 SPRINTER TRUENO GT-APEX
+SuperAutoBacs APEX MR-S
+Speed 12
+Falcon XR8 Race Car
+ZZII
+Astra Touring Car
+Caribra Touring Car
+Lupo Cup car
+New Beetle Cup car
+```
+
+## Add Engine Balancing To All Cars
+```
+911(996) GT3
+DIABLO
+F090/S
+F094/H
+F094/S
+F686/M
+F687/S
+F688/S
+Sample 001
+Sample 002
+Sample 003
+Sample 004
+Sample 005
+Sample 006
+Sample 007
+Sample 008
+Sample 009
+Sample 010
+Camaro Race Car
+Corvette C5R
+Viper GTS-R Team Oreca
+Xsara Rally Car
+Viper GTS-R Team Oreca
+Viper GTSR Concept
+Escort Rally Car
+Focus Rally Car
+GT40
+GT40 Race Car
+Vertigo Race Car
+ARTA NSX
+Castrol MUGEN NSX
+RAYBRIG NSX
+S2000 LM Race Car
+XJ220 Race Car
+XJ220 Road Car
+Delta HF Integrale Rally Car
+Stratos Rally Car
+Storm V12 Race Car
+787B
+RX-7 LM Race Car
+FTO LM Race Car
+LANCER
+LANCER Evolution VI Rally Car
+LANCER Evolution VII Rally Car
+CLK Touring Car
+Mine's Lancer Evolution VI
+Mine's Skyline
+NISMO 400R
+NISMO GT-R LM Road Car
+C-WEST RAZO SILVIA
+CALSONIC SKYLINE
+LOCTITE ZEXEL GT-R
+PENNZOIL NISMO GT-R
+R390 GT1 LM Race Car
+R390 GT1 Road Car
+Astra Touring Car
+Caribra Touring Car
+Zonda Race Car
+Esperante GTR-1
+206 Rally Car
+Clio Sport Race Car
+IMPREZA LM Race Car
+IMPREZA Rally Car
+IMPREZA Rally Car prototype
+ESCUDO Pikes Peak Version
+Spoon S2000 Race Car
+ALTEZZA LM Race Car
+CELICA Rally Car
+COROLLA Rally Car
+Castrol Tom's SUPRA
+DENSO SARD SUPRA GT
+GT-ONE Race Car(TS020)
+GT-ONE Road Car(TS020)
 SuperAutoBacs APEX MR-S
 Speed 12
 Falcon XR8 Race Car
