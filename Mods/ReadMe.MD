@@ -190,3 +190,116 @@ Tom's X540 CHASER Stages: 1,2,3
 ZZII Stages: 1,2,3
 New Beetle RSi Stages: 1,2,3
 ```
+
+## Add Missing Turbo Stages
+Add missing stages if a car has a stage 1 upgrade.
+```
+Acura INTEGRA Type R Stages: 3,4
+156 2.5 V6 24V Stages: 4
+DB7 Vantage Coupe Stages: 3,4
+V8 Vantage Stages: 3,4
+TT 1.8T quattro Stages: 4
+TT 1.8T quattro Stages: 4
+328ci Stages: 4
+PT Cruiser Stages: 3,4
+Xsara Rally Car Stages: 3,4
+MIRA TR-XX AVANZATO R Stages: 3,4
+STORIA X4 Stages: 3,4
+Coupe Turbo Plus Stages: 4
+Escort Rally Car Stages: 4
+Focus Rally Car Stages: 4
+CIVIC SiR-II(EG) Stages: 4
+CIVIC Type R(EK) Stages: 4
+HONDA S2000 Stages: 4
+HONDA S2000 Stages: 4
+HONDA S2000 Stages: 4
+HONDA S2000 Stages: 4
+INTEGRA Type R 98 spec Stages: 4
+S2000 Stages: 4
+S2000 Stages: 4
+S2000 LM Race Car Stages: 4
+S2000 Type V Stages: 4
+XKR Coupe Stages: 4
+Delta HF Integrale Rally Car Stages: 3,4
+Elise 190 Stages: 2,3,4
+Elise 190 Stages: 2,3,4
+Motor Sport Elise Stages: 3,4
+787B Stages: 2,3,4
+DEMIO GL-X Stages: 3,4
+EUNOS ROADSTER Stages: 4
+EUNOS ROADSTER Stages: 4
+EUNOS ROADSTER Stages: 4
+EUNOS ROADSTER Stages: 3,4
+EUNOS ROADSTER Stages: 4
+EUNOS ROADSTER Stages: 4
+EUNOS ROADSTER Stages: 3,4
+EUNOS ROADSTER Stages: 3,4
+EUNOS ROADSTER Stages: 3,4
+EUNOS ROADSTER Stages: 3,4
+EUNOS ROADSTER Stages: 3,4
+RX-7 LM Race Car Stages: 4
+SAVANNA RX-7 INFINI III(FC) Stages: 4
+LANCER Evolution IV GSR Stages: 4
+LANCER Evolution IV GSR Stages: 4
+LANCER Evolution V GSR Stages: 4
+LANCER Evolution V GSR Stages: 4
+LANCER Evolution VI GSR Stages: 4
+LANCER Evolution VI GSR Stages: 4
+LANCER Evolution VI GSR T.M.E. Stages: 4
+LANCER Evolution VI GSR T.M.E.(J) Stages: 4
+LANCER Evolution VI RS Stages: 4
+LANCER Evolution VI Rally Car Stages: 3,4
+LANCER Evolution VII GSR Stages: 4
+LANCER Evolution VII GSR Stages: 4
+LANCER Evolution VII RS Stages: 4
+LANCER Evolution VII Rally Car Stages: 3,4
+SLK 230 Kompressor Stages: 4
+Mine's Lancer Evolution VI Stages: 2,3,4
+Mine's Skyline Stages: 2,3,4
+Mini Cooper 1.3i Stages: 3,4
+NISMO SKYLINE GT-R R-tune(R34) Stages: 4
+NISMO SKYLINE GT-R S-tune(R32) Stages: 4
+C-WEST RAZO SILVIA Stages: 3,4
+SKYLINE GTS-t Type M(R32) Stages: 4
+206 Rally Car Stages: 3,4
+206 S16 Stages: 3,4
+RUF 3400S Stages: 4
+RUF 3400S Stages: 4
+RUF CTR2 Stages: 4
+Clio Sport Race Car Stages: 4
+Clio Sport V6 24V Stages: 4
+IMPREZA Rally Car Stages: 3,4
+IMPREZA Rally Car prototype Stages: 4
+IMPREZA SEDAN WRX STi Stages: 4
+IMPREZA SEDAN WRX STi Stages: 4
+IMPREZA SPORTS WAGON STi Stages: 4
+IMPREZA WAGON WRX STi Stages: 4
+IMPREZA WAGON WRX STi Stages: 4
+IMPREZA WRX STi Stages: 4
+IMPREZA WRX STi Stages: 4
+LEGACY B4 BLITZEN Stages: 4
+LEGACY B4 BLITZEN Stages: 4
+LEGACY B4 RSK Stages: 4
+LEGACY TOURING WAGON GT-B Stages: 4
+ALTO WORKS Stages: 4
+ALTO WORKS Stages: 4
+ALTEZZA AS200 Stages: 4
+ALTEZZA LM Race Car Stages: 4
+ALTEZZA RS200 Stages: 4
+CELICA GT-FOUR(ST205) Stages: 4
+CELICA GT-FOUR(ST205) Stages: 4
+CELICA Rally Car Stages: 3,4
+COROLLA Rally Car Stages: 3,4
+MR-S S EDITION Stages: 3,4
+MR2 GT-S Stages: 4
+SPRINTER TRUENO GT-APEX Stages: 4
+SPRINTER TRUENO GT-APEX Stages: 4
+SuperAutoBacs APEX MR-S Stages: 3,4
+VITZ Euro Edition Stages: 3,4
+VITZ RS 1.5 Stages: 3,4
+VITZ RS 1.5 Stages: 3,4
+ZZII Stages: 3,4
+ZZS Stages: 3,4
+Lupo Cup car Stages: 3,4
+New Beetle RSi Stages: 4
+```
