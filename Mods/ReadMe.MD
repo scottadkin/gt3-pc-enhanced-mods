@@ -1037,3 +1037,87 @@ ZZII: Semi-Racing,Racing
 Astra Touring Car: Semi-Racing,Racing
 Caribra Touring Car: Semi-Racing,Racing
 ```
+
+
+## Add Weight Reduction Upgrades
+Changed Zonda c12, Zonda c12s, Mines Evo 6, and Dodge Viper GTSR stock upgrades have been changed to stage 1, and additional upgrades have been added with even lower values for a much higher price.
+Following cars now have stage 1,2, and 3 upgrades.
+```
+911(996) GT3
+DIABLO
+F090/S
+F094/H
+F094/S
+F686/M
+F687/S
+F688/S
+Sample 001
+Sample 002
+Sample 003
+Sample 004
+Sample 005
+Sample 006
+Sample 007
+Sample 008
+Sample 009
+Sample 010
+Camaro Race Car
+Corvette C5R
+Viper GTS-R Team Oreca
+Xsara Rally Car
+Viper GTS-R Team Oreca
+Escort Rally Car
+Focus Rally Car
+GT40
+GT40 Race Car
+Vertigo Race Car
+ARTA NSX
+Castrol MUGEN NSX
+RAYBRIG NSX
+S2000 LM Race Car
+XJ220 Race Car
+XJ220 Road Car
+Delta HF Integrale Rally Car
+Stratos
+Stratos Rally Car
+Storm V12 Race Car
+787B
+RX-7 LM Race Car
+FTO LM Race Car
+LANCER
+LANCER Evolution VI Rally Car
+LANCER Evolution VII Rally Car
+CLK Touring Car
+Mine's Skyline
+C-WEST RAZO SILVIA
+CALSONIC SKYLINE
+LOCTITE ZEXEL GT-R
+PENNZOIL NISMO GT-R
+R390 GT1 LM Race Car
+R390 GT1 Road Car
+Astra Touring Car
+Caribra Touring Car
+Zonda Race Car
+Esperante GTR-1
+206 Rally Car
+Clio Sport Race Car
+IMPREZA LM Race Car
+IMPREZA Rally Car
+IMPREZA Rally Car prototype
+ESCUDO Pikes Peak Version
+Spoon Civic Type-R
+Spoon S2000
+Spoon S2000 Race Car
+ALTEZZA LM Race Car
+CELICA Rally Car
+COROLLA Rally Car
+Castrol Tom's SUPRA
+DENSO SARD SUPRA GT
+GT-ONE Race Car(TS020)
+GT-ONE Road Car(TS020)
+SuperAutoBacs APEX MR-S
+Falcon XR8 Race Car
+ZZII
+Astra Touring Car
+Caribra Touring Car
+```
