@@ -6,6 +6,25 @@
 - Extract the contents of a .zip into the folder you just created.
 - Use the launchers mod manager to enable or disable the folder for the changes to take effect.
 
+## Add Performance Upgrades
+All of the following mods in one database:
+- Add Missing NA Tunes
+- Add NA Tunes To All Cars
+- Add Missing Turbo Stages
+- Add Displacement Upgrades To All Cars
+- Add Port Polish Upgrades To All Cars
+- Add Engine Balancing To All Cars
+- Add Intercooler Upgrades
+- Add Computer Upgrades
+- Add Exhaust Upgrades
+- Add Weight Reduction Upgrades
+
+## No Rubberband
+Removes AI rubberband if you get too far ahead or too far behind.
+
+## Remove AI Handicaps & No Rubberband
+Removes max throttle limits ai cars have in some events and sets other stats to 100%. Includes remove rubberband.
+
 ## Add missing NA Tunes
 Upgrades Added:
 ```
