@@ -95,6 +95,16 @@ UPDATE EVENT SET EnemySkillC_RWD=1,EnemySkillC_FWD=1,EnemySkillC_4WD=1,EnemySkil
 UPDATE EVENT SET EnemySkillC_RWD=1,EnemySkillC_FWD=1,EnemySkillC_4WD=1,EnemySkillC_GTR=1 WHERE Label LIKE("AE%") OR Label LIKE("AH%") OR Label LIKE("AN%") OR Label LIKE("AP%")
 ```
 
+## Give All AI Cars Most Powerful Turbo Upgrade
+```
+UPDATE ENEMY_CARS SET TurbineKit='tk_altoworks_sport_ltd_97_d'
+```
+
+## Give All AI Cars Most Powerful Intercooler Upgrade
+```
+UPDATE ENEMY_CARS SET Intercooler='Ic_z_r_2by2_tt_98_b'
+```
+
 ## Make Brakes Useless
 ```
 UPDATE BRAKE SET BrakeTorqueF=0,BrakeTorqueR=0

@@ -25,6 +25,9 @@ Removes AI rubberband if you get too far ahead or too far behind.
 ## Remove AI Handicaps & No Rubberband
 Removes max throttle limits ai cars have in some events and sets other stats to 100%. Includes remove rubberband.
 
+## Give-All-AI-Most-Powerful-Turbo-Upgrades
+Every AI car gets the most powerful turbo and intercooler upgrades.
+
 ## Add missing NA Tunes
 Upgrades Added:
 ```
