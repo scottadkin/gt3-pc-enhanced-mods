@@ -65,133 +65,225 @@ ZZS Stages: 2,3
 ## Add NA Tunes To All Cars
 - Includes the missing ones in the **Add missing NA Tunes** list
 ```
-911(996) GT3 Stages: 1,2,3
-F090/S Stages: 1,2,3
-F094/H Stages: 1,2,3
-F094/S Stages: 1,2,3
-F686/M Stages: 1,2,3
-F687/S Stages: 1,2,3
-F688/S Stages: 1,2,3
-Sample 001 Stages: 1,2,3
-Sample 002 Stages: 1,2,3
-Sample 003 Stages: 1,2,3
-Sample 004 Stages: 1,2,3
-Sample 005 Stages: 1,2,3
-Sample 006 Stages: 1,2,3
-Sample 007 Stages: 1,2,3
-Sample 008 Stages: 1,2,3
-Sample 009 Stages: 1,2,3
-Sample 010 Stages: 1,2,3
-DB7 Vantage Coupe Stages: 1,2,3
-V8 Vantage Stages: 1,2,3
-S4 Stages: 1,2,3
-TT 1.8T quattro Stages: 1,2,3
-TT 1.8T quattro Stages: 1,2,3
-Xsara Rally Car Stages: 1,2,3
-MIRA TR-XX AVANZATO R Stages: 1,2,3
-STORIA X4 Stages: 1,2,3
-Coupe Turbo Plus Stages: 1,2,3
-Escort Rally Car Stages: 1,2,3
-Focus Rally Car Stages: 1,2,3
-S2000 LM Race Car Stages: 1,2,3
-XJ220 Race Car Stages: 1,2,3
-XJ220 Road Car Stages: 1,2,3
-XKR Coupe Stages: 1,2,3
-Delta HF Integrale Rally Car Stages: 1,2,3
-Stratos Stages: 1,2,3
-Stratos Rally Car Stages: 1,2,3
-Esprit SPORT 350 Stages: 1,2,3
-Esprit V8 SE Stages: 1,2,3
-787B Stages: 1,2,3
-RX-7 LM Race Car Stages: 1,2,3
-RX-7 Type RS Stages: 1,2,3
-RX-7 Type RS Stages: 1,2,3
-RX-7 Type RZ Stages: 1,2,3
-RX-7 Type RZ Stages: 1,2,3
-SAVANNA RX-7 INFINI III(FC) Stages: 1,2,3
-FTO LM Race Car Stages: 1,2,3
-GTO Twin Turbo Stages: 1,2,3
-GTO Twin Turbo Stages: 1,2,3
-LANCER Stages: 1,2,3
-LANCER Evolution IV GSR Stages: 1,2,3
-LANCER Evolution IV GSR Stages: 1,2,3
-LANCER Evolution V GSR Stages: 1,2,3
-LANCER Evolution V GSR Stages: 1,2,3
-LANCER Evolution VI GSR Stages: 1,2,3
-LANCER Evolution VI GSR Stages: 1,2,3
-LANCER Evolution VI GSR T.M.E. Stages: 1,2,3
-LANCER Evolution VI GSR T.M.E.(J) Stages: 1,2,3
-LANCER Evolution VI RS Stages: 1,2,3
-LANCER Evolution VI Rally Car Stages: 1,2,3
-LANCER Evolution VII GSR Stages: 1,2,3
-LANCER Evolution VII GSR Stages: 1,2,3
-LANCER Evolution VII RS Stages: 1,2,3
-LANCER Evolution VII Rally Car Stages: 1,2,3
-SLK 230 Kompressor Stages: 1,2,3
-Mine's Lancer Evolution VI Stages: 1,2,3
-Mine's Skyline Stages: 1,2,3
-NISMO 400R Stages: 1,2,3
-NISMO GT-R LM Road Car Stages: 1,2,3
-NISMO SKYLINE GT-R R-tune(R34) Stages: 1,2,3
-NISMO SKYLINE GT-R S-tune(R32) Stages: 1,2,3
-180SX Type X Stages: 1,2,3
-C-WEST RAZO SILVIA Stages: 1,2,3
-CALSONIC SKYLINE Stages: 1,2,3
-Fairlady Z Version R Stages: 1,2,3
-Fairlady Z Version S Stages: 1,2,3
-LOCTITE ZEXEL GT-R Stages: 1,2,3
-PENNZOIL NISMO GT-R Stages: 1,2,3
-R390 GT1 LM Race Car Stages: 1,2,3
-R390 GT1 Road Car Stages: 1,2,3
-SILVIA K's (S13 1800cc) Stages: 1,2,3
-SILVIA K's (S13 2000cc) Stages: 1,2,3
-SILVIA K's AERO(S14) Stages: 1,2,3
-SILVIA SPEC R AERO Stages: 1,2,3
-SKYLINE GT-R M・spec(R34) Stages: 1,2,3
-SKYLINE GT-R Vspec II(R32) Stages: 1,2,3
-SKYLINE GT-R Vspec II(R32) Stages: 1,2,3
-SKYLINE GT-R Vspec(R33) Stages: 1,2,3
-SKYLINE GT-R V・spec II(R34) Stages: 1,2,3
-SKYLINE GT-R V・spec II(R34) Stages: 1,2,3
-SKYLINE GT-R V・spec(R34) Stages: 1,2,3
-SKYLINE GTS-t Type M(R32) Stages: 1,2,3
-206 Rally Car Stages: 1,2,3
-RUF CTR2 Stages: 1,2,3
-Clio Sport Race Car Stages: 1,2,3
-IMPREZA 22B-STi Version Stages: 1,2,3
-IMPREZA LM Race Car Stages: 1,2,3
-IMPREZA Rally Car Stages: 1,2,3
-IMPREZA Rally Car prototype Stages: 1,2,3
-IMPREZA SEDAN WRX STi Stages: 1,2,3
-IMPREZA SEDAN WRX STi Stages: 1,2,3
-IMPREZA SPORTS WAGON STi Stages: 1,2,3
-IMPREZA WAGON WRX STi Stages: 1,2,3
-IMPREZA WAGON WRX STi Stages: 1,2,3
-IMPREZA WRX STi Stages: 1,2,3
-IMPREZA WRX STi Stages: 1,2,3
-LEGACY B4 BLITZEN Stages: 1,2,3
-LEGACY B4 BLITZEN Stages: 1,2,3
-LEGACY B4 RSK Stages: 1,2,3
-LEGACY TOURING WAGON GT-B Stages: 1,2,3
-ALTO WORKS Stages: 1,2,3
-ALTO WORKS Stages: 1,2,3
-ESCUDO Pikes Peak Version Stages: 1,2,3
-ALTEZZA LM Race Car Stages: 1,2,3
-CELICA GT-FOUR(ST205) Stages: 1,2,3
-CELICA GT-FOUR(ST205) Stages: 1,2,3
-CELICA Rally Car Stages: 1,2,3
-COROLLA Rally Car Stages: 1,2,3
-Castrol Tom's SUPRA Stages: 1,2,3
-DENSO SARD SUPRA GT Stages: 1,2,3
-GT-ONE Race Car(TS020) Stages: 1,2,3
-GT-ONE Road Car(TS020) Stages: 1,2,3
-MR2 GT-S Stages: 1,2,3
-SUPRA RZ Stages: 1,2,3
-SUPRA RZ Stages: 1,2,3
-SuperAutoBacs APEX MR-S Stages: 1,2,3
-Tom's X540 CHASER Stages: 1,2,3
-ZZII Stages: 1,2,3
-New Beetle RSi Stages: 1,2,3
+911(996) GT3 Stage 1,Stage 2,Stage 3
+DIABLO Stage 2,Stage 3
+F090/S Stage 1,Stage 2,Stage 3
+F094/H Stage 1,Stage 2,Stage 3
+F094/S Stage 1,Stage 2,Stage 3
+F686/M Stage 1,Stage 2,Stage 3
+F687/S Stage 1,Stage 2,Stage 3
+F688/S Stage 1,Stage 2,Stage 3
+Sample 001 Stage 1,Stage 2,Stage 3
+Sample 002 Stage 1,Stage 2,Stage 3
+Sample 003 Stage 1,Stage 2,Stage 3
+Sample 004 Stage 1,Stage 2,Stage 3
+Sample 005 Stage 1,Stage 2,Stage 3
+Sample 006 Stage 1,Stage 2,Stage 3
+Sample 007 Stage 1,Stage 2,Stage 3
+Sample 008 Stage 1,Stage 2,Stage 3
+Sample 009 Stage 1,Stage 2,Stage 3
+Sample 010 Stage 1,Stage 2,Stage 3
+Acura CL 3.2 Type S Stage 2,Stage 3
+Acura INTEGRA Type R Stage 2,Stage 3
+Acura NSX Stage 2,Stage 3
+Acura RSX Type-S Stage 2,Stage 3
+156 2.5 V6 24V Stage 2,Stage 3
+DB7 Vantage Coupe Stage 1,Stage 2,Stage 3
+V8 Vantage Stage 1,Stage 2,Stage 3
+Vanquish Stage 2,Stage 3
+S4 Stage 1,Stage 2,Stage 3
+TT 1.8T quattro Stage 1,Stage 2,Stage 3
+TT 1.8T quattro Stage 1,Stage 2,Stage 3
+328ci Stage 2,Stage 3
+Camaro Race Car Stage 2,Stage 3
+Camaro SS Stage 2,Stage 3
+Camaro Z28 Stage 2,Stage 3
+Corvette C5R Stage 2,Stage 3
+Corvette GRAND SPORT Stage 2,Stage 3
+Corvette Z06 Stage 2,Stage 3
+PT Cruiser Stage 2,Stage 3
+Viper GTS-R Team Oreca Stage 2,Stage 3
+Xsara Rally Car Stage 1,Stage 2,Stage 3
+MIRA TR-XX AVANZATO R Stage 1,Stage 2,Stage 3
+STORIA X4 Stage 1,Stage 2,Stage 3
+Viper GTS Stage 2,Stage 3
+Viper GTS-R Team Oreca Stage 2,Stage 3
+Viper GTSR Concept Stage 2,Stage 3
+Coupe Turbo Plus Stage 1,Stage 2,Stage 3
+Escort Rally Car Stage 1,Stage 2,Stage 3
+Focus Rally Car Stage 1,Stage 2,Stage 3
+GT40 Stage 2,Stage 3
+GT40 Race Car Stage 2,Stage 3
+Mustang SVT Cobra R Stage 2,Stage 3
+Vertigo Race Car Stage 2,Stage 3
+ACCORD Euro-R Stage 2,Stage 3
+ARTA NSX Stage 2,Stage 3
+CIVIC SiR-II(EG) Stage 2,Stage 3
+CIVIC Type R(EK) Stage 2,Stage 3
+CR-X Del-Sol SiR Stage 2,Stage 3
+Castrol MUGEN NSX Stage 2,Stage 3
+HONDA S2000 Stage 2,Stage 3
+HONDA S2000 Stage 2,Stage 3
+HONDA S2000 Stage 2,Stage 3
+HONDA S2000 Stage 2,Stage 3
+INTEGRA Type R 98 spec Stage 2,Stage 3
+NSX Type R Stage 2,Stage 3
+NSX Type R Stage 2,Stage 3
+NSX Type S Zero Stage 2,Stage 3
+RAYBRIG NSX Stage 2,Stage 3
+S2000 Stage 2,Stage 3
+S2000 LM Race Car Stage 1,Stage 2,Stage 3
+S2000 Type V Stage 2,Stage 3
+XJ220 Race Car Stage 1,Stage 2,Stage 3
+XJ220 Road Car Stage 1,Stage 2,Stage 3
+XKR Coupe Stage 1,Stage 2,Stage 3
+Delta HF Integrale Rally Car Stage 1,Stage 2,Stage 3
+Stratos Stage 1,Stage 2,Stage 3
+Stratos Rally Car Stage 1,Stage 2,Stage 3
+Storm V12 Race Car Stage 2,Stage 3
+Elise 190 Stage 2,Stage 3
+Elise 190 Stage 2,Stage 3
+Esprit SPORT 350 Stage 1,Stage 2,Stage 3
+Esprit V8 SE Stage 1,Stage 2,Stage 3
+Motor Sport Elise Stage 2,Stage 3
+787B Stage 1,Stage 2,Stage 3
+DEMIO GL-X Stage 2,Stage 3
+EUNOS ROADSTER Stage 2,Stage 3
+ROADSTER 1.8 RS Stage 2,Stage 3
+ROADSTER RS Stage 2,Stage 3
+RX-7 LM Race Car Stage 1,Stage 2,Stage 3
+RX-7 Type RS Stage 1,Stage 2,Stage 3
+RX-7 Type RZ Stage 1,Stage 2,Stage 3
+RX-8 Stage 2,Stage 3
+RX-8 Stage 2,Stage 3
+SAVANNA RX-7 INFINI III(FC) Stage 1,Stage 2,Stage 3
+FTO GP Version R Stage 2,Stage 3
+FTO GP Version R Stage 2,Stage 3
+FTO LM Race Car Stage 1,Stage 2,Stage 3
+GTO Twin Turbo Stage 1,Stage 2,Stage 3
+GTO Twin Turbo Stage 1,Stage 2,Stage 3
+LANCER Stage 1,Stage 2,Stage 3
+LANCER Evolution IV GSR Stage 1,Stage 2,Stage 3
+LANCER Evolution IV GSR Stage 1,Stage 2,Stage 
+LANCER Evolution V GSR Stage 1,Stage 2,Stage 3
+LANCER Evolution VI GSR Stage 1,Stage 2,Stage 3
+LANCER Evolution VI GSR T.M.E. Stage 1,Stage 2,Stage 3
+LANCER Evolution VI GSR T.M.E.(J) Stage 1,Stage 2,Stage 3
+LANCER Evolution VI RS Stage 1,Stage 2,Stage 3
+LANCER Evolution VI Rally Car Stage 1,Stage 2,Stage 3
+LANCER Evolution VII GSR Stage 1,Stage 2,Stage 3
+LANCER Evolution VII RS Stage 1,Stage 2,Stage 3
+LANCER Evolution VII Rally Car Stage 1,Stage 2,Stage 3
+MUGEN S2000 Stage 2,Stage 3
+CL600 Stage 2,Stage 3
+CLK Touring Car Stage 2,Stage 3
+CLK55 Stage 2,Stage 3
+SLK 230 Kompressor Stage 1,Stage 2,Stage 3
+Mine's Lancer Evolution VI Stage 1,Stage 2,Stage 3
+Mine's Skyline Stage 1,Stage 2,Stage 3
+Mini Cooper 1.3i Stage 2,Stage 3
+NISMO 400R Stage 1,Stage 2,Stage 3
+NISMO GT-R LM Road Car Stage 1,Stage 2,Stage 3
+NISMO SKYLINE GT-R R-tune(R34) Stage 1,Stage 2,Stage 3
+NISMO SKYLINE GT-R S-tune(R32) Stage 1,Stage 2,Stage 3
+180SX Type X Stage 1,Stage 2,Stage 3
+C-WEST RAZO SILVIA Stage 1,Stage 2,Stage 3
+CALSONIC SKYLINE Stage 1,Stage 2,Stage 3
+Fairlady Z Version R Stage 1,Stage 2,Stage 3
+Fairlady Z Version S Stage 1,Stage 2,Stage 3
+LOCTITE ZEXEL GT-R Stage 1,Stage 2,Stage 3
+Nissan Z Concept Stage 2,Stage 3
+PENNZOIL NISMO GT-R Stage 1,Stage 2,Stage 3
+R390 GT1 LM Race Car Stage 1,Stage 2,Stage 3
+R390 GT1 Road Car Stage 1,Stage 2,Stage 3
+SILVIA K's (S13 1800cc) Stage 1,Stage 2,Stage 3
+SILVIA K's (S13 2000cc) Stage 1,Stage 2,Stage 3
+SILVIA K's AERO(S14) Stage 1,Stage 2,Stage 3
+SILVIA SPEC R AERO Stage 1,Stage 2,Stage 3
+SILVIA Varietta Stage 2,Stage 3
+SKYLINE GT-R M・spec(R34) Stage 1,Stage 2,Stage 3
+SKYLINE GT-R Vspec II(R32) Stage 1,Stage 2,Stage 3
+SKYLINE GT-R Vspec(R33) Stage 1,Stage 2,Stage 3
+SKYLINE GT-R V・spec II(R34) Stage 1,Stage 2,Stage 3
+SKYLINE GT-R V・spec(R34) Stage 1,Stage 2,Stage 3
+SKYLINE GTS-t Type M(R32) Stage 1,Stage 2,Stage 3
+Astra Touring Car Stage 2,Stage 3
+Caribra Touring Car Stage 2,Stage 3
+Speedster Stage 2,Stage 3
+Zonda C12 Stage 2,Stage 3
+Zonda C12S Stage 2,Stage 3
+Zonda Race Car Stage 2,Stage 3
+Esperante GTR-1 Stage 2,Stage 3
+206 Rally Car Stage 1,Stage 2,Stage 3
+206 S16 Stage 2,Stage 3
+RUF 3400S Stage 2,Stage 3
+RUF CTR2 Stage 1,Stage 2,Stage 3
+RUF RGT Stage 2,Stage 3
+Clio Sport Race Car Stage 1,Stage 2,Stage 3
+Clio Sport V6 24V Stage 2,Stage 3
+IMPREZA 22B-STi Version Stage 1,Stage 2,Stage 3
+IMPREZA LM Race Car Stage 1,Stage 2,Stage 3
+IMPREZA Rally Car Stage 1,Stage 2,Stage 3
+IMPREZA Rally Car prototype Stage 1,Stage 2,Stage 3
+IMPREZA SEDAN WRX STi Stage 1,Stage 2,Stage 3
+IMPREZA SPORTS WAGON STi Stage 1,Stage 2,Stage 3
+IMPREZA WAGON WRX STi Stage 1,Stage 2,Stage 3
+IMPREZA WAGON WRX STi Stage 1,Stage 2,Stage 3
+IMPREZA WRX STi Stage 1,Stage 2,Stage 3
+IMPREZA WRX STi Stage 1,Stage 2,Stage 3
+LEGACY B4 BLITZEN Stage 1,Stage 2,Stage 3
+LEGACY B4 BLITZEN Stage 1,Stage 2,Stage 3
+LEGACY B4 RSK Stage 1,Stage 2,Stage 3
+LEGACY TOURING WAGON GT-B Stage 1,Stage 2,Stage 3
+ALTO WORKS Stage 1,Stage 2,Stage 3
+ALTO WORKS Stage 1,Stage 2,Stage 3
+ESCUDO Pikes Peak Version Stage 1,Stage 2,Stage 3
+Cobra Stage 2,Stage 3
+Spoon Civic Type-R Stage 2,Stage 3
+Spoon S2000 Stage 2,Stage 3
+Spoon S2000 Race Car Stage 2,Stage 3
+ALTEZZA AS200 Stage 2,Stage 3
+ALTEZZA LM Race Car Stage 1,Stage 2,Stage 3
+ALTEZZA RS200 Stage 2,Stage 3
+CELICA GT-FOUR(ST205) Stage 1,Stage 2,Stage 3
+CELICA GT-FOUR(ST205) Stage 1,Stage 2,Stage 3
+CELICA Rally Car Stage 1,Stage 2,Stage 3
+CELICA SS-II Stage 2,Stage 3
+CELICA SS-II Stage 2,Stage 3
+CELICA SS-II(ST202) Stage 2,Stage 3
+COROLLA Rally Car Stage 1,Stage 2,Stage 3
+Castrol Tom's SUPRA Stage 1,Stage 2,Stage 3
+DENSO SARD SUPRA GT Stage 1,Stage 2,Stage 3
+GT-ONE Race Car(TS020) Stage 1,Stage 2,Stage 3
+GT-ONE Road Car(TS020) Stage 1,Stage 2,Stage 3
+MR-S S EDITION Stage 2,Stage 3
+MR2 G-Limited Stage 2,Stage 3
+MR2 GT-S Stage 1,Stage 2,Stage 3
+SPRINTER TRUENO GT-APEX Stage 2,Stage 3
+SPRINTER TRUENO GT-APEX Stage 1,Stage 2,Stage 3
+SUPRA RZ Stage 1,Stage 2,Stage 3
+SUPRA RZ Stage 1,Stage 2,Stage 3
+SUPRA SZ-R Stage 2,Stage 3
+SuperAutoBacs APEX MR-S Stage 1,Stage 2,Stage 3
+VITZ Euro Edition Stage 2,Stage 3
+VITZ RS 1.5 Stage 2,Stage 3
+VITZ RS 1.5 Stage 2,Stage 3
+CELICA TRD Sports M Stage 2,Stage 3
+Griffith 500 Stage 2,Stage 3
+Griffith 500 Stage 2,Stage 3
+Speed 12 Stage 2,Stage 3
+Tuscan Speed 6 Stage 2,Stage 3
+Falcon XR8 Race Car Stage 1,Stage 2,Stage 3
+Tom's X540 CHASER Stage 1,Stage 2,Stage 3
+ZZII Stage 1,Stage 2,Stage 3
+ZZS Stage 2,Stage 3
+Astra Touring Car Stage 2,Stage 3
+Caribra Touring Car Stage 2,Stage 3
+VX220 Stage 2,Stage 3
+Lupo Cup car Stage 2,Stage 3
+New Beetle 2.0 Stage 2,Stage 3
+New Beetle Cup car Stage 2,Stage 3
+New Beetle RSi Stage 1,Stage 2,Stage 3
 ```
 
 ## Add Missing Turbo Stages
