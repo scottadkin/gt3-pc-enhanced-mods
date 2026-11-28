@@ -105,6 +105,19 @@ UPDATE ENEMY_CARS SET TurbineKit='tk_altoworks_sport_ltd_97_d'
 UPDATE ENEMY_CARS SET Intercooler='Ic_z_r_2by2_tt_98_b'
 ```
 
+## Give Ai Most Power Turbo Upgrades + Longer Gear Ratios
+```
+UPDATE ENEMY_CARS SET TurbineKit='tk_altoworks_sport_ltd_97_d';
+UPDATE ENEMY_CARS SET Intercooler='Ic_z_r_2by2_tt_98_b';
+UPDATE ENEMY_CARS SET FinalGear=CEIL(FinalGear * 0.7);
+```
+
+## Give AI Most Powerful Muffler Upgrade
+```
+UPDATE ENEMY_CARS SET Muffler='mu__156_25v6_00_c';
+```
+
+
 ## Make Brakes Useless
 ```
 UPDATE BRAKE SET BrakeTorqueF=0,BrakeTorqueR=0
