@@ -122,6 +122,21 @@ UPDATE ENEMY_CARS SET Muffler='mu__156_25v6_00_c';
 UPDATE ENEMY_CARS SET Computer='co__156_25v6_00_a';
 ```
 
+## Give AI Most Powerful Displacement Upgrades
+```
+UPDATE ENEMY_CARS SET Displacement='ds_civic_r_98_a';
+```
+
+## Give AI Most Powerful Engine Balance Upgrades
+```
+UPDATE ENEMY_CARS SET EngineBalance='eb__156_25v6_00_a';
+```
+
+
+## Give AI Most Powerful Port Polish Upgrades
+```
+UPDATE ENEMY_CARS SET PortPolish='pp__156_25v6_00_a';
+```
 
 ## Make Brakes Useless
 ```
