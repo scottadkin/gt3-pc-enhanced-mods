@@ -138,6 +138,11 @@ UPDATE ENEMY_CARS SET EngineBalance='eb__156_25v6_00_a';
 UPDATE ENEMY_CARS SET PortPolish='pp__156_25v6_00_a';
 ```
 
+## Give AI Most Powerful NA Tunr Upgrade
+```
+UPDATE ENEMY_CARS SET NATune='nt_beetle_20_00_c';
+```
+
 ## Make Brakes Useless
 ```
 UPDATE BRAKE SET BrakeTorqueF=0,BrakeTorqueR=0
