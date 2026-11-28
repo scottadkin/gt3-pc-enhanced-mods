@@ -117,6 +117,11 @@ UPDATE ENEMY_CARS SET FinalGear=CEIL(FinalGear * 0.7);
 UPDATE ENEMY_CARS SET Muffler='mu__156_25v6_00_c';
 ```
 
+## Give AI Most Power Racing Chip Upgrades
+```
+UPDATE ENEMY_CARS SET Computer='co__156_25v6_00_a';
+```
+
 
 ## Make Brakes Useless
 ```
